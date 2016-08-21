@@ -3,7 +3,7 @@
   Turns on an LED on for one second, then off for one second, repeatedly.
   This example code is in the public domain.
 
-change sketch by Nicu FLORICA (aka niq_ro) from http://www.tehnic.go.ro
+changed sketch by Nicu FLORICA (aka niq_ro) from http://www.tehnic.go.ro
 http://nicuflorica.blogspot.ro/
 http://arduinotehniq.blogspot.com/
 & http://www.arduinotehniq.com/
