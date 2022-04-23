@@ -1,6 +1,9 @@
 # blink
 use derivate sketches from base BLINK sketch...
 
+![poza1](https://1.bp.blogspot.com/-Yf2_7hZYSU4/Xp8GdUUaRLI/AAAAAAAAcHU/B06LmdMlfL0I5ik57xp0io_mwcj2d-ykwCLcBGAsYHQ/s200/1on2.jpg)
+![poza2](https://1.bp.blogspot.com/-Yf2_7hZYSU4/Xp8GdUUaRLI/AAAAAAAAcHU/B06LmdMlfL0I5ik57xp0io_mwcj2d-ykwCLcBGAsYHQ/s200/1on2.jpg)
+
 article in english: http://arduinotehniq.blogspot.com/2020/04/flashing-led-without-delay.html
 
 articole in limba romana:
